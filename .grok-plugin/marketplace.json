@@ -382,6 +382,19 @@
       "homepage": "https://enrichlabs.ai",
       "keywords": ["helena", "enrich labs", "helena ai marketer", "helena marketing ai agent", "helena autonomous marketer", "helena marketing"],
       "domains": ["enrichlabs.ai", "agent.enrichlabs.ai"]
+    },
+    {
+      "name": "socialmcp",
+      "description": "Manage social accounts through SocialMCP's hosted OAuth MCP server. Read profiles and posts, draft and publish content, and manage activity across LinkedIn, Facebook Pages, Instagram, X, YouTube, TikTok, Reddit, Pinterest, and Threads. Posts require approval by default.",
+      "category": "social",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/finepher/social-mcp-grok-plugin-marketplace.git",
+        "sha":"e70c8a7fee9faaf569cf76b72cf6c33488325993"
+      },
+      "homepage": "https://social-mcp.finepher.com",
+      "keywords": ["socialmcp", "social media", "social media management", "publish social posts", "manage social accounts", "finepher"],
+      "domains": ["social-mcp.finepher.com", "finepher.com"]
     }
   ]
 }

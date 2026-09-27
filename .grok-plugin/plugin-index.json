@@ -918,6 +918,10 @@
         ]
       }
     },
+    "socialmcp": {
+      "sha": "e70c8a7fee9faaf569cf76b72cf6c33488325993",
+      "components": {}
+    },
     "stripe": {
       "sha": "af7c088ac40115e23ab5fa60b5b968d71e801b97",
       "version": "0.8.6",
