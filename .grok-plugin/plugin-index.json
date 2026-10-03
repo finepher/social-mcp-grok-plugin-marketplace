@@ -919,8 +919,16 @@
       }
     },
     "socialmcp": {
-      "sha": "e70c8a7fee9faaf569cf76b72cf6c33488325993",
-      "components": {}
+      "sha": "2ba8fdf054d739a0a74c1f070a14667904c5ed93",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "socialmcp",
+            "description": "http"
+          }
+        ]
+      }
     },
     "stripe": {
       "sha": "af7c088ac40115e23ab5fa60b5b968d71e801b97",
